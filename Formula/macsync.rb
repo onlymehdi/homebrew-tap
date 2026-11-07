@@ -1,8 +1,8 @@
 class Macsync < Formula
-  desc "Sync your Dock and apps across Macs through iCloud"
+  desc "Sync your Dock, apps and settings across Macs through iCloud"
   homepage "https://github.com/onlymehdi/macsync"
-  url "https://github.com/onlymehdi/macsync/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f505b942d750880061dcd11779b4d79f653a6f3757593cefe31155f725fcc642"
+  url "https://github.com/onlymehdi/macsync/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "bd92df22a02f2c4e7d4f2724e5b5b5c67b4cfcf7dca0058e3afc8a01ee6a61bd"
   license "MIT"
 
   depends_on :macos
